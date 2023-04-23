@@ -251,10 +251,10 @@ Thanks goes to these wonderful people
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/mrraddinton">
-            <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="mrraddinton"/>
+        <a href="https://github.com/0x5FE">
+            <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="0x5FE"/>
             <br />
-            <sub><b>Mrraddinton</b></sub>
+            <sub><b>0x5FE</b></sub>
         </a>
     </td>
     <td align="center">
